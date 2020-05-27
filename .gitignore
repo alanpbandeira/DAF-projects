@@ -1,3 +1,15 @@
+# Images
+img_data
+
+# Results
+results
+
+# Projects descriptions
+description.pdf
+
+# Full datasets
+dataset
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
