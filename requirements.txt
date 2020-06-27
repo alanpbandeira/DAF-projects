@@ -6,3 +6,6 @@ seaborn
 plotly
 scipy
 jupyter
+imutils
+opencv-python-headless
+opencv-contrib-python-headless
